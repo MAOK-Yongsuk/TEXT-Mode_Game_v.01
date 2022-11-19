@@ -1,0 +1,13 @@
+﻿  lab07.cpp
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(8,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(8,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(32,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(32,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(40,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(40,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(48,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(48,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(57,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(57,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\lab07\lab07.cpp(67,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab07.vcxproj -> C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB07\lab07\lab07\x64\Debug\lab07.exe
